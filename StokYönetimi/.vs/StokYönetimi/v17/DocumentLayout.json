@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\userdashboard\\profil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\userdashboard\\profil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\userdashboard\\sepet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\userdashboard\\sepet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\userdashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\userdashboard\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\admin\\\u00FCr\u00FCnsilme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\admin\\\u00FCr\u00FCnsilme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\admin\\stokgoruntule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\admin\\stokgoruntule.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\admin\\siparisonay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\admin\\siparisonay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\admin\\productadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\admin\\productadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\admin\\logs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\admin\\logs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\views\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\service\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\service\\logservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\controllers\\userdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\controllers\\userdashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|c:\\users\\esra\\source\\repos\\stoky\u00F6netimi\\stoky\u00F6netimi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735B45EC-D7CD-4575-8F60-802C6188C669}|StokY\u00F6netimi\\StokY\u00F6netimi.csproj|solutionrelative:stoky\u00F6netimi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\appsettings.json",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\appsettings.json",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\appsettings.json",
+              "RelativeToolTip": "StokY\u00F6netimi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T17:23:48.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:46.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sepet.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\UserDashboard\\Sepet.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\UserDashboard\\Sepet.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\UserDashboard\\Sepet.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\UserDashboard\\Sepet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:46.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profil.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\UserDashboard\\Profil.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\UserDashboard\\Profil.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\UserDashboard\\Profil.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\UserDashboard\\Profil.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:45.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\UserDashboard\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\UserDashboard\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\UserDashboard\\Dashboard.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\UserDashboard\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:44.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:43.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:42.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:41.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:38.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u00DCr\u00FCnSilme.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\\u00DCr\u00FCnSilme.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Admin\\\u00DCr\u00FCnSilme.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\\u00DCr\u00FCnSilme.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Admin\\\u00DCr\u00FCnSilme.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:37.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StokGoruntule.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\StokGoruntule.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Admin\\StokGoruntule.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\StokGoruntule.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Admin\\StokGoruntule.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:36.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SiparisOnay.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\SiparisOnay.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Admin\\SiparisOnay.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\SiparisOnay.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Admin\\SiparisOnay.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:36.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\ProductAdd.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Admin\\ProductAdd.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\ProductAdd.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Admin\\ProductAdd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:35.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "logs.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\logs.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Admin\\logs.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\logs.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Admin\\logs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\admin.cshtml",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Views\\Admin\\admin.cshtml",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Views\\Admin\\admin.cshtml",
+              "RelativeToolTip": "StokY\u00F6netimi\\Views\\Admin\\admin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T17:23:33.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LogService.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Service\\LogService.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Service\\LogService.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Service\\LogService.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Service\\LogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:32.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:31.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Product.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:30.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Order.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:29.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Log.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\Log.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Log.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:28.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:28.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Customer.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:27.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Models\\Admin.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:26.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:23:25.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Controllers\\UserDashboardController.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Controllers\\UserDashboardController.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Controllers\\UserDashboardController.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Controllers\\UserDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:22:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:22:54.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "StokY\u00F6netimi\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\ESRA\\source\\repos\\StokY\u00F6netimi\\StokY\u00F6netimi\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "StokY\u00F6netimi\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T17:22:53.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
